@@ -1,0 +1,9 @@
+@charset "utf-8";
+#qimage {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+
+}
+footer .footer_column #qimage {
+}

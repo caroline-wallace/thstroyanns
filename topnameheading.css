@@ -1,0 +1,15 @@
+@charset "utf-8";
+#1header {
+	background-color: #981719;
+	-webkit-box-shadow: 0px 0px #1F1919;
+	box-shadow: 0px 0px #1F1919;
+}
+topname {
+	background-color: #A01013;
+}
+
+#1header a .logo {
+	background-color: #920D10;
+}
+.container #1header {
+}
